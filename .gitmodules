@@ -1,0 +1,3 @@
+[submodule "third_party/coev"]
+	path = third_party/coev
+	url = https://github.com/dou1984/coev.git
